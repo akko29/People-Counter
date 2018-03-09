@@ -4,5 +4,7 @@ People counting systems aim at automatically estimating the number of people ind
 Requirements:
 
 Opencv
-Pyhton
+
+Python
+
 Numpy
